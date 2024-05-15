@@ -1,0 +1,13 @@
+﻿  sample.cpp
+C:\Users\omen\OneDrive\سطح المكتب\Sample2017\Sample2017\sample.cpp(307,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\omen\OneDrive\سطح المكتب\Sample2017\Sample2017\sample.cpp(307,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\omen\OneDrive\سطح المكتب\Sample2017\Sample2017\sample.cpp(307,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\omen\OneDrive\سطح المكتب\Sample2017\Sample2017\sample.cpp(318,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\omen\OneDrive\سطح المكتب\Sample2017\Sample2017\sample.cpp(318,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\omen\OneDrive\سطح المكتب\Sample2017\Sample2017\sample.cpp(318,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\omen\OneDrive\سطح المكتب\Sample2017\Sample2017\sample.cpp(407,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omen\OneDrive\سطح المكتب\Sample2017\Sample2017\sample.cpp(665,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\omen\OneDrive\سطح المكتب\Sample2017\Sample2017\sample.cpp(677,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\omen\OneDrive\سطح المكتب\Sample2017\Sample2017\sample.cpp(1403,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\omen\OneDrive\سطح المكتب\Sample2017\Sample2017\Debug\Sample.exe
