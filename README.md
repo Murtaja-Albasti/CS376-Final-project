@@ -6,5 +6,15 @@ for the final project in cs376 course,
 ## Downloading 
 just clone the project
 ```bash
-git clone
+git clone https://github.com/Murtaja-Albasti/CS376-Final-project.git
 ```
+## how to start?
+once the file downloaded, just unzip it and then open sample.sln file with Microsoft visual studio and then execute the code. 
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
